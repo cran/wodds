@@ -1,0 +1,16 @@
+50a39e7ada074c97611cfa6a170fa246 *DESCRIPTION
+bb64fa17c0d77fa088fbdaa7e7a8fa59 *LICENSE
+bdec14d9cbb31f8e9e60972dd8fad4cf *NAMESPACE
+2a0ee26502a358456a59195f43a104d5 *R/wodds.R
+428cbaa411c04df5bf3c8ad1dba229f8 *README.md
+4f581a7b27557b49e652da5e346475ff *man/figures/README-pressure-1.png
+373e63a87f48677c3239c219d61c0dea *man/figures/table.png
+5ed795725d71fb0987c4a05f7ca2f369 *man/get_depth_from_n.Rd
+9fb0fde54d5055f151f90e9bbf6d2b67 *man/get_n_from_depth.Rd
+e5cece4d300bec05644a74ddf5e71850 *man/make_wodd_name.Rd
+d16a3fcf82d1720d634df4b673678ed9 *man/raw_wodd.Rd
+10701c1201564ac232472cffc0360d46 *man/select_wodd_name_from_table.Rd
+7eec5113bdff7558f7b25d634ef0ab67 *man/wodd_format.Rd
+7b585918b953330b830ebb9a09a7ce99 *man/wodds.Rd
+a05005dd2ad6526bbbf8c06aae986826 *tests/testthat.R
+adbca07a988690528bde0621dc6c61ef *tests/testthat/test-wodds.R
